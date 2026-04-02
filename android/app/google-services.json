@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66018666918",
+    "project_id": "ci-cd-test-565a4",
+    "storage_bucket": "ci-cd-test-565a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66018666918:android:20460df1f06e3ffd3b4767",
+        "android_client_info": {
+          "package_name": "com.example.ci_cd_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_BjBYsPOV6wB2_ft-WflfRdqeLLhwBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

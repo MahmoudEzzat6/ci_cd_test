@@ -1,0 +1,10 @@
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Fastlane Appfile - Android Configuration
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Your app's package name (applicationId)
+package_name("com.example.ci_cd_test")
+
+# Path to your Google Play service account JSON key file
+# Uncomment and set this when you're ready to deploy to Play Store
+# json_key_file("path/to/your/play-store-credentials.json")
